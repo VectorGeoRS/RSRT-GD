@@ -1,5 +1,3 @@
-# RSRT-GD
-Official dataset page for RSRT-GD, a road-topology reference dataset for urban remote sensing image geolocation.
 # RSRT-GD: Remote Sensing Image to Road Topology Geolocation Dataset
 
 RSRT-GD is a remote sensing image geolocation dataset designed for direct geolocation of urban remote sensing images using lightweight road-vector references. The dataset uses road topology rather than a large-scale reference image database as the geographic control reference.
