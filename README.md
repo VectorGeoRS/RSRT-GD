@@ -51,7 +51,7 @@ RSRT-GD/
 │   └── anchors.csv
 ├── test/
 │   ├── images/
-│   └── query_metadata.csv
+│   └── anchors.csv
 ├── vector_reference/
 │   ├── vector_reference.shp
 │   ├── vector_reference.shx
