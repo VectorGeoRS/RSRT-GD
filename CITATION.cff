@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use RSRT-GD in your research, please cite the dataset and the associated paper."
+title: "RSRT-GD: Remote Sensing Image to Road Topology Geolocation Dataset"
+type: dataset
+authors:
+  - family-names: "RSRT-GD"
+    given-names: "Authors"
+version: "1.0.0"
+url: "https://github.com/VectorGeoRS/RSRT-GD"
+abstract: "RSRT-GD is a remote sensing image geolocation dataset designed for direct geolocation of urban remote sensing images using lightweight road-vector references. The dataset provides remote sensing image tiles, anchor coordinates, query metadata, and a shared road-vector reference. Road-topology masks for geolocation are dynamically generated from the vector reference rather than released as pre-generated files."
+keywords:
+  - remote sensing
+  - image geolocation
+  - road topology
+  - vector reference
+  - urban remote sensing
+  - road-vector reference
+  - OpenStreetMap
+  - GaoFen-7
+  - dataset
+license: "LicenseRef-RSRT-GD-Research-Only"
+
+preferred-citation:
+  type: article
+  title: "Direct Geolocation of Urban Remote Sensing Images Based on a Lightweight Vector Reference"
+  authors:
+    - family-names: "RSRT-GD"
+      given-names: "Authors"
+  year: 2026
+  journal: "To be added"
